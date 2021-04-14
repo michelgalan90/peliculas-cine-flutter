@@ -1,6 +1,8 @@
-# peliculas
 
-A new Flutter project.
+
+![peliculas](https://i.ibb.co/ymCpNKS/Screenshot-38.png)
+
+# Peliculas en cartelera del Cine
 
 ## Getting Started
 
